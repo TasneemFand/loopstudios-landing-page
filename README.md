@@ -1,6 +1,6 @@
 # Frontend Mentor - loopstudios landing page solution
 
-This is a solution to the Blogr landing page challenge on Frontend Mentor. [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+This is a solution to the loopstudios landing page challenge on Frontend Mentor. [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
   - [overview](https://github.com/TasneemFand/Blogr-LandingPage/blob/main/README.md#overview)
