@@ -1,0 +1,51 @@
+.MuiBackdrop-root {
+    background-color: unset !important;
+}
+
+.MuiDrawer-paper {
+    height: 518px !important;
+    top: 10% !important;
+    right: 4.6% !important;
+    width: 355px !important;
+    padding: 20px !important;
+}
+
+.MuiDrawer-paperAnchorRight {
+    background-color: black !important;
+}
+
+
+.Item .MuiTypography-body1 {
+    color:#FFFEFA;
+    font-family: Fraunces ;
+    font-size: 22px ;
+    text-align: left;
+
+}
+.Item .MuiTypography-body1:hover {
+    border-bottom: 2px solid;
+    display: inline-block;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.MuiListItem-root {
+    padding-bottom: 0px !important;
+}
+
+.MuiIconButton-root {
+    color: unset!important;
+    padding: 0px !important;
+}
+
+.MuiIconButton-root:hover {
+    color: #902a7f !important;
+    background-color: unset !important;
+}
+
+
+
